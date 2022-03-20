@@ -1,0 +1,30 @@
+body {
+    background-image: url(/img/flores-y-rosas-2949.jpg);
+}
+
+.titulo {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+
+.ropa {
+    color: rgb(10, 43, 71);
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    color: rgb(105, 5, 75);
+    display: flex;
+    justify-content: center
+}
+
+.galita {
+    display: flex;
+    justify-content: center;
+}
+
+.galita img {
+    width: 200px;
+}
